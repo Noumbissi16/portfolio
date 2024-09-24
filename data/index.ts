@@ -73,12 +73,13 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "ACME Invoice Management",
-    des: "Simplify your invoicing process with ACME, a powerful and user-friendly invoice management system built using Next.js. Generate, track, and manage invoices effortlessly.",
-    img: "/hero-desktop.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/R.png", "/P.webp"],
-    link: "https://nextjs-learn-dashboard-ten-xi.vercel.app/",
+    title: "SoMA - Social Media Application",
+    des: "A complete functional social media application feeling just like Instagram",
+    img: "/p3.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
+    link: "/ui.aiimg.com",
   },
+
   {
     id: 2,
     title: "Thrends - A Threads clone",
@@ -87,14 +88,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/c.svg", "M.jfif"],
     link: "https://threads-clone-thrends.vercel.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "AI Image SaaS - Canva Application",
-  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-  //   img: "/p3.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-  //   link: "/ui.aiimg.com",
-  // },
+  {
+    id: 3,
+    title: "ACME Invoice Management",
+    des: "Simplify your invoicing process with ACME, a powerful and user-friendly invoice management system built using Next.js. Generate, track, and manage invoices effortlessly.",
+    img: "/hero-desktop.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/R.png", "/P.webp"],
+    link: "https://nextjs-learn-dashboard-ten-xi.vercel.app/",
+  },
   // {
   //   id: 4,
   //   title: "Animated Apple Iphone 3D Website",
