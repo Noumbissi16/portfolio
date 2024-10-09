@@ -77,7 +77,7 @@ export const projects = [
     des: "A complete functional social media application feeling just like Instagram",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-    link: "https://soma-wine.vercel.app/sign-in",
+    link: "https://soma-wine.vercel.app",
   },
 
   {
